@@ -15,9 +15,11 @@ Using marching cubes is a good way to generate a mesh with smooth surface and co
 
 So, when I work on my FYP which I name HelloPlanet, I have taken a bit of time investigating on how to write an algorithm that could generate smooth planetary mesh with complex features like caves and overhangs. The result is what I call as Planetary Marching Cubes, you can see from the result below:
 
-A paper has been written for PMC and will be submitted soon. You will be able find the details there! Likewise, the code will be released soon as well.
+A paper has been written for PMC and will be submitted soon. You will be able find the details there! Likewise, the PMC code will be released soon as well.
 
 You can give HelloPlanet, and therefore PMC a try, by downloading HelloPlanet's EXE (64bits windows only) below:
 
 Normal Version: https://drive.google.com/open?id=0B9fZr1uee_a3dllrdC1rVy1QaUk
-VR Version:
+VR Version: soon
+
+The EXEs above is only for trial only and is not part of the PMC open source project :) 
