@@ -21,11 +21,12 @@ So, when I work on my FYP which I name HelloPlanet, I have taken a bit of time i
 
 ![alt text](DemoScreenshots/demo_2.png)
 
-A paper has been written for PMC and will be submitted soon. You will be able to find the details there! Likewise, the PMC code will be released soon as well.
+A technical paper has been written for PMC and will be submitted soon. You will be able to find the details there! The education paper on utilizing PMC for game-based learning could be found [here](http://ieeexplore.ieee.org/document/7943069/?reload=true). Likewise, the PMC code will be released soon as well.
 
 You can give HelloPlanet, and therefore PMC a try, by downloading HelloPlanet's EXE (64bits windows only) below:
 
-Normal Version: https://drive.google.com/open?id=0B9fZr1uee_a3dllrdC1rVy1QaUk
-VR Version: soon
+HelloPlanet EXE - [Normal Version](https://drive.google.com/open?id=0B9fZr1uee_a3dllrdC1rVy1QaUk) [VR Version](https://drive.google.com/open?id=0B9fZr1uee_a3SWlTLWNROVVMUWc)
+
+HelloPlanet Video - [Concept Video](https://www.youtube.com/watch?v=r_Zjpismblo) [VR Demo Video](https://www.youtube.com/watch?v=_LLwc82t_BE)
 
 The EXEs above is only for trial only and is not part of the PMC open source project :) 
